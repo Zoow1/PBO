@@ -1,6 +1,6 @@
 # TUBES_PBO_KELOMPOK4_SE4501
 
-##Pengembangan aplikasi kasir
+## Pengembangan aplikasi kasir
 
 ## Deskripsi Umum Aplikasi
 Aplikasi yang akan kami buat sebagai tugas besar kami adalah aplikasi untuk kasir, terdiri dari 2 user yaitu admin sebagai kasir dan owner sebagai pemilik. Untuk judul kami tertarik menggunakan kasir sebagai referensi tugas besar kami, karena menurut kami aplikasi tentang kasir dapat memenuhi spesifikasi tugas besar yaitu aplikasi database berbasis GUI, menggunakan JDBC di dalamannya, serta memuat konsep-konsep pemrograman berbasis objek.
